@@ -1,2 +1,3 @@
-public class NewClass {
+public abstract class NewClass {
+    public abstract void testGit();
 }
