@@ -22,6 +22,8 @@ public class MainClass {
 
         mainPage.typeEmail("ivt@mail.ru");
 
+        int test;
+
 
     }
 }
