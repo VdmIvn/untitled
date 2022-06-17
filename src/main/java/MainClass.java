@@ -24,6 +24,7 @@ public class MainClass {
 
         int test;
         int test2;
+        int test3;
 
 
     }
